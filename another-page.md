@@ -2,5 +2,5 @@
 layout: default
 ---
 
-## Welcome to another page
+## Tech News
 [back](./)
