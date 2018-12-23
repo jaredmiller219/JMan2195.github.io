@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.authors       = ['Jason Long', 'GitHub, Inc.']
   s.email         = ['opensource+jekyll-theme-architect@github.com']
   s.homepage      = 'https://github.com/pages-themes/architect'
-  s.summary       = 'Build an AR Game that allows users to use innovative controls with a headset. It uses plane detection to allow users to interact with mixed reality elements. Creating a sense of an item that doesnt appear in the real world but, shows up in the AR Viewer screen into your eyes.'
+  s.summary       = 'Architect is a Jekyll theme for GitHub Pages'
 
   s.files         = `git ls-files -z`.split("\x0").select do |f|
     f.match(%r{^((_includes|_layouts|_sass|assets)/|(LICENSE|README)((\.(txt|md|markdown)|$)))}i)
