@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Tech 
+## Tech 
 #Tech News
-code
+
 [back](./)
