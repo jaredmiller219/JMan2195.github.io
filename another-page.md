@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
-# Tech
-Here is the tech page
+# Tech 
+#Tech News
+
 [back](./)
