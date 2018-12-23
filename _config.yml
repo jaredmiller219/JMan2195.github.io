@@ -1,7 +1,5 @@
-title: My Webpage
-description: Build an AR Game that allows users to use innovative controls with a headset. 
-It uses plane detection to allow users to interact with mixed reality elements. 
-Creating a sense of an item that doesn't appear in the real world but, shows up in the AR Viewer screen into your eyes.
+title: Architect theme
+description: Architect is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-architect
